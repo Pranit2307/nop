@@ -1,0 +1,45 @@
+1667661251474	geckodriver	INFO	Listening on 127.0.0.1:50557
+1667661254453	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50558" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PRANIT\\AppData\\Local\\Temp\\rust_mozprofileN6fULO"
+1667661255209	Marionette	INFO	Marionette enabled
+1667661255220	Marionette	INFO	Listening on port 50567
+Read port: 50567
+WebDriver BiDi listening on ws://127.0.0.1:50558
+1667661255549	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PRANIT\\AppData\\Local\\Temp\\rust_mozprofileN6fULO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50558/devtools/browser/e3972a2f-fde3-4c37-acb1-3e75dcb12931
+1667661261423	Marionette	INFO	Stopped listening on port 50567
+1667661262684	geckodriver	INFO	Listening on 127.0.0.1:50589
+1667661265708	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50590" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PRANIT\\AppData\\Local\\Temp\\rust_mozprofilezyYpws"
+1667661266510	Marionette	INFO	Marionette enabled
+1667661266519	Marionette	INFO	Listening on port 50599
+Read port: 50599
+WebDriver BiDi listening on ws://127.0.0.1:50590
+1667661266852	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PRANIT\\AppData\\Local\\Temp\\rust_mozprofilezyYpws\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50590/devtools/browser/d8167c40-7a4b-48cc-8f82-4c8775539867
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1667661278005	Marionette	INFO	Stopped listening on port 50599
+1668049033780	geckodriver	INFO	Listening on 127.0.0.1:65057
+1668049036820	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65058" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PRANIT\\AppData\\Local\\Temp\\rust_mozprofilezpeaWU"
+1668049037378	Marionette	INFO	Marionette enabled
+1668049037384	Marionette	INFO	Listening on port 65071
+Read port: 65071
+WebDriver BiDi listening on ws://127.0.0.1:65058
+1668049037582	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PRANIT\\AppData\\Local\\Temp\\rust_mozprofilezpeaWU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65058/devtools/browser/b8824b41-0a04-4190-9696-2aa282bac275
+1668049042076	Marionette	INFO	Stopped listening on port 65071
+1668049042796	geckodriver	INFO	Listening on 127.0.0.1:65094
+1668049045840	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65095" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PRANIT\\AppData\\Local\\Temp\\rust_mozprofileiXcmtW"
+1668049046206	Marionette	INFO	Marionette enabled
+1668049046211	Marionette	INFO	Listening on port 65104
+Read port: 65104
+WebDriver BiDi listening on ws://127.0.0.1:65095
+1668049046392	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PRANIT\\AppData\\Local\\Temp\\rust_mozprofileiXcmtW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65095/devtools/browser/e930e2ae-117a-4d22-acb5-07cb0ce9724e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1668049059901	Marionette	INFO	Stopped listening on port 65104
+JavaScript error: https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=meexYto0mAKr6PjyeE37ROc-We8, line 2: NS_ERROR_NOT_INITIALIZED: 
